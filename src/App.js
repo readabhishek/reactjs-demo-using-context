@@ -3,6 +3,9 @@
 This is to demonstrate the use of 'context.Provider' and 'context.Consumer'
 Note: There are two ways we can use the above concepts. Check both of them. Check file- HeaderCompLevel3.jsx
 
+Note: using React hook 'useContext' we can eliminate the need for 'context.Consumer'.
+      Check Project 'reactjs-test-project-use-context-reacthook' for more details.
+      Also the link: https://reactjs.org/docs/hooks-reference.html#usecontext
 */
 
 import './App.css';
