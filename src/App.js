@@ -1,6 +1,7 @@
 
 /*
-This is to demonstrate the use of context.Provider and context.Consumer
+This is to demonstrate the use of 'context.Provider' and 'context.Consumer'
+Note: There are two ways we can use the above concepts. Check both of them. Check file- HeaderCompLevel3.jsx
 
 */
 

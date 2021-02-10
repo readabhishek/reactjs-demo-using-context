@@ -5,9 +5,14 @@
 *  Note: We are passing regular props also, which is not required, but just to demo that we can pass props via both ways */
 
 import ProfileComponentLevel3 from "./ProfileComponentLevel3";
+import HeaderCompLevel3 from "./HeaderCompLevel3";
+
 function ProfileHeader (props) {
     return (
-       <ProfileComponentLevel3 testProp={"Another Props sent directly"}/>
+        <div>
+            <ProfileComponentLevel3 testProp={"Another Props sent directly"}/>
+            <HeaderCompLevel3 />
+        </div>
     );
 }
 

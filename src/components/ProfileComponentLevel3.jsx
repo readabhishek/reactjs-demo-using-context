@@ -23,7 +23,6 @@ const renderData = (value, props) => {
 */
 
 function ProfileComponentLevel3(props) {
-
     return (
         <myNameContext.Consumer>
             { (value) => {
